@@ -1,6 +1,3 @@
-from tkinter.font import names
-
-
 class User:
     name = ''
     surname = ''
