@@ -1,7 +1,3 @@
-class Enum:
-    pass
-
-
 from enum import Enum
 
 
